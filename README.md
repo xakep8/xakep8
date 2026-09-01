@@ -6,20 +6,20 @@
 
 ### What I actually enjoy
 
-- Writing <strong>C / C++</strong> that does real work: screen capture, ray tracing, custom allocators, sockets.
+- I enjoy writing <strong>C / C++</strong> and I'm keenly interested in low level programming.
 - Understanding how things behave under the hood: memory layout, syscalls, buffers, latency.
-- Building small tools that feel sharp: focused CLIs, utilities, and experiments that can be plugged into bigger systems later.
+- I enjoy reading about compilers.
 
 ---
 
 ### Tech & interests
 
-- Languages: C, C++, plus higher‑level stuff when it’s the right tool.
-- Domains: systems programming, graphics, networking, memory management, P2P.
+- Languages: C, C++, Typescript, Boost, .
+- Domains: systems programming, compilers.
 
 ---
 
 ### Contact
 
-- Email: [kunaldubeyseven@gmail.com](mailto:kunaldubeyseven@gmail.com)
+- Email: [xakep8@protonmail.com](mailto:xakep8@protonmail.com)
 
