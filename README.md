@@ -14,7 +14,7 @@
 
 ### Tech & interests
 
-- Languages: C, C++, Typescript, Boost, .
+- Languages: C, C++, Typescript, Boost.
 - Domains: systems programming, compilers.
 
 ---
