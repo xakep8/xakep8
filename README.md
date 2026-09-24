@@ -1,6 +1,6 @@
 <h1 align="center">Kunal Dubey</h1>
 <h3 align="center">Systems & low‑level engineer | Open Source Contributor<h3>
-<h3 align="center">With code I like to feel that I'm the one in control.</h3>
+<h3 align="center">Bit Flipping through life.</h3>
 
 ---
 
